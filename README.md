@@ -9,9 +9,3 @@
 ## Objetivos
 
 Construir aplicações performáticas, escaláveis e de fácil manutenção.
-
-## Contato
-
-- LinkedIn
-- GitHub
-- Email
