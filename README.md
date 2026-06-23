@@ -1,8 +1,7 @@
 ## 👋 Olá, eu sou um Desenvolvedor Full-Stack
 
-Construo aplicações modernas, escaláveis e performáticas com foco em **Type Safety**, **Performance** e **Arquitetura limpa**.
-
----
+> PT: Construindo sistemas modernos com foco em performance, type-safety e arquitetura limpa.  
+> EN: Building modern systems focused on performance, type-safety, and clean architecture.
 
 ### 🚀 Backend
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
