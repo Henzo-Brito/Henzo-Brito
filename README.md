@@ -8,8 +8,8 @@
 
 ## Objetivos
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,ts,docker,bun,react" />
+  <a>
+    <img src="https://skillicons.dev/icons?i=docker,bun,react" />
   </a>
 </p>
 
