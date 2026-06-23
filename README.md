@@ -1,6 +1,7 @@
 ## 👋 Olá, eu sou um Desenvolvedor Full-Stack
 
-Construindo sistemas modernos com foco em performance, type-safety e arquitetura limpa.  
+Full-Stack Developer especializado em TypeScript, criando APIs e aplicações modernas
+Focado em arquitetura limpa, type-safety, performance e escalabilidade, transformando problemas complexos em soluções simples e bem estruturadas.
 
 ### 🚀 Backend
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
