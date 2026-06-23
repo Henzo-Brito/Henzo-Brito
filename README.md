@@ -1,25 +1,16 @@
-# 👋 Olá, eu sou um Desenvolvedor Full-Stack
+## 👋 Olá, eu sou um Desenvolvedor Full-Stack
 
-Sou um desenvolvedor full-stack focado em construir aplicações modernas, performáticas e escaláveis com TypeScript em toda a stack.
-
-Trabalho principalmente com backend em runtime leve e APIs rápidas, e frontend/mobile com foco em experiência de usuário e performance.
+Construo aplicações modernas, escaláveis e performáticas com foco em **Type Safety**, **Performance** e **Arquitetura limpa**.
 
 ---
 
-## ⚙️ Tech Stack
+### 🚀 Backend
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-FF6B00?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-3C873A?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Backend
-- 🟢 :contentReference[oaicite:0]{index=0}
-- ⚡ :contentReference[oaicite:1]{index=1}
-- 🧩 :contentReference[oaicite:2]{index=2}
-- 🐘 :contentReference[oaicite:3]{index=3}
-- 🔐 JWT + Cookies HttpOnly (auth segura)
-
-### Frontend / Mobile
-- 📱 :contentReference[oaicite:4]{index=4}
-- ⚛️ React + TypeScript
-- 🎨 UI componentizada e responsiva
-
----
-
-## 📊 Developer Dashboard
+### 📱 Mobile / Frontend
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
