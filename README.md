@@ -2,7 +2,11 @@
 
 > PT: Construindo sistemas modernos com foco em performance, type-safety e arquitetura limpa.  
 > EN: Building modern systems focused on performance, type-safety, and clean architecture.
+<div align="center">
 
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight)
+
+</div>
 ### 🚀 Backend
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-FF6B00?style=for-the-badge)
