@@ -3,11 +3,6 @@
 Full-Stack Developer especializado em TypeScript, criando APIs e aplicações modernas
 Focado em arquitetura limpa, type-safety, performance e escalabilidade, transformando problemas complexos em soluções simples e bem estruturadas.
 
-### 🎓 Atualmente estudando
-
-* 🏫 **ETEC** — Técnico em Desenvolvimento de Sistemas
-* 🚀 **Instituto PROA** — Formação em tecnologia e desenvolvimento profissional
-* 💻 **Codecademy** — Estudos complementares em programação
 
 ### 🚀 Backend
 
@@ -26,3 +21,9 @@ Focado em arquitetura limpa, type-safety, performance e escalabilidade, transfor
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
+
+### 🎓 Atualmente estudando
+
+* 🏫 **ETEC** — Técnico em Desenvolvimento de Sistemas
+* 🚀 **Instituto PROA** — Formação em tecnologia e desenvolvimento profissional
+* 💻 **Codecademy** — Estudos complementares em programação
